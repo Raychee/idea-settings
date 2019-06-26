@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="st" type="SQL" />
     </extensionMap>
   </component>
