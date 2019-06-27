@@ -9,6 +9,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'main'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'main'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
