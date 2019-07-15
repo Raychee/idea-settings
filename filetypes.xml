@@ -6,7 +6,6 @@
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="st" type="SQL" />
     </extensionMap>
