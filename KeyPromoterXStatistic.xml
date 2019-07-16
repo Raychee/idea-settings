@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>157</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -247,6 +247,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'agenda.js'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'apolloClient.js'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'apolloClient.js'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'calculator'">
