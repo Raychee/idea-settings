@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>168</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -150,7 +150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'agenda.js'</Description>
-          <Count>19</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'build'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'start'</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test.js'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'agenda.js'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'apolloClient.js'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'start'</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'winston.js'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'agenda.js'</Description>
-          <Count>33</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'calculator'">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'start'</Description>
-          <Count>58</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test.js'">
