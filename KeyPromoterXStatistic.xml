@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>176</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -230,7 +230,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'start'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test.js'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'start'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'winston.js'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'start'</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test.js'">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
