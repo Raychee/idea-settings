@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="req" value="const {$ITEM$} = require('$MODULE$');" description="Require statement" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="jsSuggestImportedEntityName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
