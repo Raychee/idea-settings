@@ -246,7 +246,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'start'</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test.js'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'start'</Description>
-          <Count>153</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test.js'">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
