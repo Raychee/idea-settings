@@ -118,7 +118,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>375</Count>
+          <Count>376</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -246,7 +254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'start'</Description>
-          <Count>155</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test.js'">
@@ -358,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'start'</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'winston.js'">
@@ -462,7 +470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'start'</Description>
-          <Count>163</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test.js'">
